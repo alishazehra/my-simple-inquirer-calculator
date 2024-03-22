@@ -24,5 +24,5 @@ else if (answers.operator === "Division") {
     console.log(answers.firstNumber / answers.secondNumber);
 }
 else {
-    console.log("Invalid output");
+    console.log("Please select valid operator");
 }
